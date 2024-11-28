@@ -1,3 +1,4 @@
+RazorpayClone WebSite
 This is a clone of the Razorpay website created using HTML, CSS, JavaScript, and Tailwind CSS. The website aims to replicate the basic functionality and design of the original Razorpay website. Key Features
 
 Responsive Design: The website is designed to be fully responsive, providing a seamless experience across different devices and screen sizes.
